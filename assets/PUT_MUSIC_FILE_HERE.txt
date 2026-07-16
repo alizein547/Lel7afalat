@@ -1,0 +1,2 @@
+ضع ملف الموسيقى المرخّص لديك هنا باسم music.mp3
+Example: assets/music.mp3
